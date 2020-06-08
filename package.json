@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "build": "webpack"
+    "build": "webpack",
+    "start-prod": "nohup node ./bin/www &"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
