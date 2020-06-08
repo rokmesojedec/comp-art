@@ -147,7 +147,7 @@ class Square {
         }
     }
 }
-Square.size = 65;
+Square.size = 80;
 Square.widthEnd = null;
 Square.heightEnd = null;
 Square.colors = ["#ffc857","#e9724c","#c5283d","#481d24","#255f85"];
