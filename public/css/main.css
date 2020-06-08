@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Unica+One&display=swap");
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  position: relative;
+}
+
+h1 {
+  left: 130px;
+  top: 623px;
+  font-size: large;
+  position: absolute;
+  font-size: 40px;
+  line-height: 65px;
+  display: inline-block;
+  font-family: 'Unica One', Serif;
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */

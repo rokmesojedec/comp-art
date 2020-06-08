@@ -1,0 +1,22 @@
+html, body {
+    width:  100vw;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+  
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+
+  h1 {
+    left:130px;
+    top:10*65-27px;
+    font-size: large;
+    position: absolute;
+    font-size: 40px;
+    line-height: 65px;
+    display: inline-block;
+    // background: rgba(0, 0, 0, 0.288);
+    font-family: 'Unica One', Serif;
+    color:white;
+  }
